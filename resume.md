@@ -28,7 +28,7 @@ JavaScript, React, Redux, Gatsby JS, Ruby, Ruby on Rails, HTML, CSS, SQL, Postgr
 
 **Portfolio​ Site​**
 <br />
-Hosted​: [h​ttps://www.seanwelshbrown.com/​](h​ttps://www.seanwelshbrown.com/​) | ​GitHub​: [S​ource](https://github.com/SeanWelshBrown/portfolio-site)
+Hosted​: [www.seanwelshbrown.com](h​ttps://www.seanwelshbrown.com/​) | ​GitHub​: [S​ource](https://github.com/SeanWelshBrown/portfolio-site)
 <br />
 *Personal Web Development and Software Engineering portfolio site.*
 
@@ -37,7 +37,7 @@ Hosted​: [h​ttps://www.seanwelshbrown.com/​](h​ttps://www.seanwelshbrown
 
 **Focus​**
 <br />
-​Hosted​: [​https://focus-timer.app/​](​https://focus-timer.app/​) | ​GitHub​: ​[Front End](https://github.com/SeanWelshBrown/Focus-frontend)​ / ​[Back End](https://github.com/SeanWelshBrown/Focus-backend)
+​Hosted​: [focus-timer.app](​https://focus-timer.app/) | ​GitHub​: ​[Front End](https://github.com/SeanWelshBrown/Focus-frontend)​ / ​[Back End](https://github.com/SeanWelshBrown/Focus-backend)
 <br />
 *A Full-Stack Meditation and Focus wellness app, prioritizing a minimalist and productive UI.*
 
@@ -48,7 +48,7 @@ sessions.
 
 **The Fractal Zone​**
 <br />
-Hosted​: [h​ttps://thefractal.zone/​](h​ttps://thefractal.zone/​) | ​GitHub​: [F​ront End](https://github.com/SeanWelshBrown/Everybody-Loves-Fractals-Frontend)​ / ​[Back End](https://github.com/SeanWelshBrown/Everybody-Loves-Fractals-Backend)
+Hosted​: [thefractal.zone](h​ttps://thefractal.zone/​) | ​GitHub​: [F​ront End](https://github.com/SeanWelshBrown/Everybody-Loves-Fractals-Frontend)​ / ​[Back End](https://github.com/SeanWelshBrown/Everybody-Loves-Fractals-Backend)
 <br />
 *An interactive graphical application to generate and save custom geometric fractal designs.*
 
@@ -58,7 +58,7 @@ Hosted​: [h​ttps://thefractal.zone/​](h​ttps://thefractal.zone/​) | �
 
 **Today​**
 <br />
-Hosted​: ​[https://liaowow.github.io/today-frontend/​](https://liaowow.github.io/today-frontend/​) | ​GitHub​: ​[Source](https://github.com/liaowow/TODAY)
+Hosted​: ​[liaowow.github.io/today-frontend](https://liaowow.github.io/today-frontend/​) | ​GitHub​: ​[Source](https://github.com/liaowow/TODAY)
 <br />
 *A personal journaling app to archive daily moods and thoughts.*
 
